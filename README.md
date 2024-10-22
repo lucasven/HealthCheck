@@ -1,6 +1,6 @@
 # HealthCheck
 
-HealthCheck is a health monitoring and analytics platform designed to provide insights into patient health data. This project showcases skills in web development, database management, and API design.
+HealthCheck is a health monitoring and analytics platform designed to provide insights into availability health data. This project showcases skills in web development, database management, and API design.
 
 ## Table of Contents
 - [Architecture Overview](#architecture-overview)
